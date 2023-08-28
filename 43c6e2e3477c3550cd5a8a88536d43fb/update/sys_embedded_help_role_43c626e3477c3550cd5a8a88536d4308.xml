@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1109643_eventt_0.organizador" name="x_1109643_eventt_0.organizador">c3c626e3477c3550cd5a8a88536d4307</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-28 00:11:06</sys_created_on>
+        <sys_id>43c626e3477c3550cd5a8a88536d4308</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c3c626e3477c3550cd5a8a88536d4307</sys_name>
+        <sys_package display_value="EventTracker" source="x_1109643_eventt_0">43c6e2e3477c3550cd5a8a88536d43fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EventTracker">43c6e2e3477c3550cd5a8a88536d43fb</sys_scope>
+        <sys_update_name>sys_embedded_help_role_43c626e3477c3550cd5a8a88536d4308</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-28 00:11:06</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
